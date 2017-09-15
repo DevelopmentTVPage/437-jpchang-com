@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Test Project"
+baseURL = "http:\/\/jpchang.com\/jpchang"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758991"
+subfolder = "\/jpchang"
